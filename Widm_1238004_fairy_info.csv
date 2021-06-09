@@ -1,26 +1,26 @@
-ID,No,Rarity,Dev. Rate,Level,Name,Damage,Accuracy,Evasion,Armor,Crit.Damage,Talent,Skill,Locked
-500507,15,???,500,96,Command Fairy,21.0,0.0,19.2,4.8,21.0,Damage I,6,
-509137,9,???,600,71,Airstrike Fairy,15.0,24.6,19.8,5.4,0.0,Fervor,2,Locked
-511736,7,?,200,1,Sniper Fairy,0.0,17.6,5.6,3.2,7.2,Damage I,1,Locked
-511834,11,?,85,70,Parachute Fairy,11.6,0.0,10.4,2.8,13.2,Damage I,10,Locked
-511992,4,???,900,70,Shield Fairy,10.2,30.6,40.8,0.0,0.0,Fervor,1,Locked
-519416,17,???,550,42,Illumination Fairy,0.0,40.2,14.4,3.6,16.8,Damage II,1,Locked
-521846,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Aim,1,Locked
-523238,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Assault,1,
-523875,25,?,0,34,Twin Fairies,4.8,15.6,12.4,3.2,0.0,Armor I,1,Locked
-554796,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Sturdy,1,Locked
-554797,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Accuracy II,1,
-558824,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Aim,1,
-564957,2,???,550,70,Fury Fairy,7.8,0.0,20.4,5.4,20.4,Damage II,1,Locked
-567932,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Evasion II,1,
-572345,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Armor I,1,
-572346,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Armor I,1,
-572347,26,?????,3000,100,Prototype Fairy,10.0,10.0,10.0,10.0,0.0,Critical II,1,
-582599,27,?,150,1,Auspicious Fairy,3.2,12.0,16.0,0.0,4.0,Evasion I,1,Locked
-584052,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Evasion I,1,
-584386,2,?,0,1,Fury Fairy,2.8,0.0,8.0,2.0,8.0,Critical II,1,
-585301,16,?,0,1,Rescue Fairy,7.6,20.0,16.0,0.0,0.0,Critical I,1,
-513884,1,???,700,62,Warrior Fairy,12.0,39.0,19.8,5.4,0.0,Damage II,1,Locked
-505914,8,??,450,72,Artillery Fairy,24.0,0.0,24.5,3.0,0.0,Damage I,1,
-524040,6,?,0,75,Taunt Fairy,6.4,20.0,9.6,2.8,8.4,Damage I,10,Locked
-521147,3,?,0,1,Armor Fairy,4.4,0.0,0.0,5.2,4.4,Sturdy,1,Locked
+"ID","No","Rarity","Dev. Rate","Level","Name","Damage","Accuracy","Evasion","Armor","Crit.Damage","Talent","Skill","Locked"
+"500507","15","★★★","500","96","Command Fairy","21","0","19.2","4.8","21","Damage I","6",""
+"509137","9","★★★","600","71","Airstrike Fairy","15","24.6","19.8","5.4","0","Fervor","2","Locked"
+"511736","7","★","200","1","Sniper Fairy","0","17.6","5.6","3.2","7.2","Damage I","1","Locked"
+"511834","11","★","85","70","Parachute Fairy","11.6","0","10.4","2.8","13.2","Damage I","10","Locked"
+"511992","4","★★★","900","70","Shield Fairy","10.2","30.6","40.8","0","0","Fervor","1","Locked"
+"519416","17","★★★","550","42","Illumination Fairy","0","40.2","14.4","3.6","16.8","Damage II","1","Locked"
+"521846","16","★","0","1","Rescue Fairy","7.6","20","16","0","0","Aim","1","Locked"
+"523238","3","★","0","1","Armor Fairy","4.4","0","0","5.2","4.4","Assault","1",""
+"523875","25","★","0","34","Twin Fairies","4.8","15.6","12.4","3.2","0","Armor I","1","Locked"
+"554796","26","★★★★★","3000","100","Prototype Fairy","10","10","10","10","0","Sturdy","1","Locked"
+"554797","26","★★★★★","3000","100","Prototype Fairy","10","10","10","10","0","Accuracy II","1",""
+"558824","3","★","0","1","Armor Fairy","4.4","0","0","5.2","4.4","Aim","1",""
+"564957","2","★★★","550","70","Fury Fairy","7.8","0","20.4","5.4","20.4","Damage II","1","Locked"
+"567932","16","★","0","1","Rescue Fairy","7.6","20","16","0","0","Evasion II","1",""
+"572345","26","★★★★★","3000","100","Prototype Fairy","10","10","10","10","0","Armor I","1",""
+"572346","26","★★★★★","3000","100","Prototype Fairy","10","10","10","10","0","Armor I","1",""
+"572347","26","★★★★★","3000","100","Prototype Fairy","10","10","10","10","0","Critical II","1",""
+"582599","27","★","150","1","Auspicious Fairy","3.2","12","16","0","4","Evasion I","1","Locked"
+"584052","16","★","0","1","Rescue Fairy","7.6","20","16","0","0","Evasion I","1",""
+"584386","2","★","0","1","Fury Fairy","2.8","0","8","2","8","Critical II","1",""
+"585301","16","★","0","1","Rescue Fairy","7.6","20","16","0","0","Critical I","1",""
+"513884","1","★★★","700","62","Warrior Fairy","12","39","19.8","5.4","0","Damage II","1","Locked"
+"505914","8","★★","450","72","Artillery Fairy","24","0","24.5","3","0","Damage I","1",""
+"524040","6","★","0","75","Taunt Fairy","6.4","20","9.6","2.8","8.4","Damage I","10","Locked"
+"521147","3","★","0","1","Armor Fairy","4.4","0","0","5.2","4.4","Sturdy","1","Locked"
